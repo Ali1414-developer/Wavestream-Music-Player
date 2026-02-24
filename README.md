@@ -2,12 +2,6 @@
 
 WaveStream is a modern, fully responsive, and beautifully animated web-based music player designed for Bollywood music lovers.
 It delivers a premium UI/UX experience with smooth animations, interactive controls, and both Light & Dark themes for enhanced user comfort.
-
-🎵 Live Preview
-
-Add your deployed link here
-
-https://your-live-demo-link.com
 ✨ Features
 🎧 Core Music Player Features
 
