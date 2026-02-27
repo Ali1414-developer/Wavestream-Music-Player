@@ -2,6 +2,7 @@
 
 WaveStream is a modern, fully responsive, and beautifully animated web-based music player designed for Bollywood music lovers.
 It delivers a premium UI/UX experience with smooth animations, interactive controls, and both Light & Dark themes for enhanced user comfort.
+
 ✨ Features
 🎧 Core Music Player Features
 
@@ -70,9 +71,10 @@ Audio API
 📂 Project Structure
 WaveStream/
 │── index.html
-│── style (internal CSS)
-│── script (internal JS)
-│── assets (optional covers/audio)
+│── pic/
+│    ├── 1st.png
+│    ├── 2nd.png
+│── assets/
 📱 Responsive Design
 
 WaveStream is fully optimized for:
@@ -127,6 +129,11 @@ Alka Yagnik
 
 (Audio files are streamed from public sources for demo purposes.)
 
+📸 Screenshots
+🌞 Light Mode
+
+🌙 Dark Mode
+
 🚀 How to Run Locally
 
 Clone the repository:
@@ -154,10 +161,6 @@ Audio control handling
 Dynamic DOM rendering
 
 Responsive UI architecture
-
-📸 Screenshots
-
-Add screenshots here for better presentation.
 
 📌 Future Improvements
 
