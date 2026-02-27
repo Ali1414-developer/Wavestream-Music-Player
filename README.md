@@ -1,8 +1,10 @@
+## 📸 Screenshots
+
 ### 🌞 Light Mode
-![WaveStream Light Mode](./pic/1st.png)
+![WaveStream Light Mode](./Pics/1st.png)
 
 ### 🌙 Dark Mode
-![WaveStream Dark Mode](./pic/2nd.png)
+![WaveStream Dark Mode](./Pics/2nd.png)
 
 🌊 WaveStream – Bollywood Music Player
 
