@@ -1,3 +1,9 @@
+### 🌞 Light Mode
+![WaveStream Light Mode](./pic/1st.png)
+
+### 🌙 Dark Mode
+![WaveStream Dark Mode](./pic/2nd.png)
+
 🌊 WaveStream – Bollywood Music Player
 
 WaveStream is a modern, fully responsive, and beautifully animated web-based music player designed for Bollywood music lovers.
