@@ -4,7 +4,7 @@
 ![WaveStream Light Mode](./Pics/1st.png)
 
 ### 🌙 Dark Mode
-![WaveStream Dark Mode](./Pics/2nd.png)
+![WaveStream Dark Mode](.[/Pics/https://github.com/Ali1414-developer/Wavestream-Music-Player/blob/main/Pics/Web%20Screenshot%20Dark.png))
 
 🌊 WaveStream – Bollywood Music Player
 
